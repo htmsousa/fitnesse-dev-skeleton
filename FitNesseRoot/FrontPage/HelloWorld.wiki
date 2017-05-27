@@ -1,0 +1,7 @@
+---
+Test
+---
+!include -c .FrontPage.CustomSetup
+
+|script:Hello World|John Doe|
+|show              |message |

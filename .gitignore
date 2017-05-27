@@ -1,0 +1,17 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/FitNesse/
+/PageFooter/
+/PageHeader/
+/TemplateLibrary/
+/FitNesseRoot/files
+/FitNesseRoot/FrontPage/content.txt
+/FitNesseRoot/FrontPage/properties.xml
+/FitNesseRoot/FitNesse/
+/FitNesseRoot/PageFooter/
+/FitNesseRoot/PageHeader/
+/FitNesseRoot/TemplateLibrary/
+/FitNesseRoot/properties
+
